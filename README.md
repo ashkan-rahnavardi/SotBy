@@ -1,5 +1,11 @@
 # SotBy
 
+My first academic project at BCIT. The original repo is no longer available. 
+
+Date: December 2022\
+Team: 3 People
+
+
 ## Project Photos
 Photos of the project can be found [here](https://www.ashkans.world/projects/SotBy)
 
